@@ -1,58 +1,80 @@
-# 📊 Projeto – Dashboard de Vendas Xbox (Excel)
+# 📊 Dashboard de Vendas – Excel
 
-## 📌 Entendendo o Desafio
-O objetivo deste projeto foi criar um dashboard de vendas, com foco na organização, tratamento e visualização de dados, utilizando o Microsoft Excel.
+## 📌 Sobre o projeto
 
-A proposta consiste em transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e apoiando a tomada de decisões baseada em dados.
+Desenvolvimento de um dashboard de vendas no Excel com foco na organização, análise e visualização de dados comerciais.
 
-## 🎯 Objetivo do Projeto
-- Organizar e tratar dados de vendas  
-- Criar tabelas dinâmicas para análise  
-- Desenvolver um dashboard visual e intuitivo  
-- Facilitar a interpretação dos dados de forma clara e objetiva  
+O projeto transforma dados brutos em informações estratégicas, permitindo uma análise clara do desempenho de vendas e apoiando a tomada de decisão.
 
-## 🛠️ Ferramentas Utilizadas
-- Microsoft Excel  
-- Tratamento e organização de dados  
-- Tabelas Dinâmicas  
-- Segmentação de dados  
-- Gráficos dinâmicos  
-- Construção de dashboard  
+---
 
-##### ⚠️ Observação  
-Não foram utilizadas fórmulas. Toda a análise foi realizada por meio de tratamento de dados e recursos de Tabela Dinâmica.
+## 🎯 Objetivo
 
-## 📂 Estrutura do Projeto
-- **Assets**
-  - Elementos visuais e apoio ao layout do dashboard (paleta de cores, organização visual).
-- **Bases**
-  - Base de dados original utilizada para a análise.
-- **Cálculos**
-  - Área de apoio para organização dos dados utilizados pelas tabelas dinâmicas.
-- **Dashboard**
-  - Painel final com visualizações gráficas e indicadores de vendas.
+* Organizar e tratar dados de vendas
+* Analisar desempenho comercial
+* Criar visualizações interativas
+* Apoiar decisões baseadas em dados
 
-## 📈 O que foi desenvolvido
-- Limpeza e organização da base de dados  
-- Criação de tabelas dinâmicas para análise de vendas  
-- Uso de segmentações para facilitar filtros e comparações  
-- Construção de um dashboard interativo e visual  
-- Padronização visual para melhor experiência do usuário  
+---
+
+## 🛠️ Ferramentas utilizadas
+
+* Microsoft Excel
+* Tabelas dinâmicas
+* Segmentação de dados
+* Gráficos dinâmicos
+* Construção de dashboards
+
+---
+
+## 📂 Estrutura do projeto
+
+* **Assets** → elementos visuais e padronização do layout
+* **Bases** → base de dados original
+* **Cálculos** → apoio para organização das análises
+* **Dashboard** → painel final com indicadores
+
+---
+
+## 📈 Principais funcionalidades
+
+* Limpeza e organização de dados
+* Criação de tabelas dinâmicas para análise
+* Filtros interativos com segmentação
+* Visualização de indicadores de vendas
+* Padronização visual para melhor leitura
+
+---
+
+## 💡 Insights gerados
+
+* Identificação de períodos com maior volume de vendas
+* Comparação de desempenho entre produtos/categorias
+* Visualização rápida de indicadores para tomada de decisão
+
+---
 
 ## 🚀 Aprendizados
-- Tratamento de dados no Excel  
-- Uso prático de Tabelas Dinâmicas  
-- Organização de informações para análise  
-- Criação de dashboards focados em negócio  
-- Visualização de dados aplicada à tomada de decisão  
+
+* Tratamento e organização de dados no Excel
+* Aplicação prática de tabelas dinâmicas
+* Construção de dashboards voltados ao negócio
+* Visualização de dados para suporte à decisão
+
+---
 
 ## 📌 Observação
-Projeto desenvolvido com finalidade educacional, como parte do aprendizado em análise de dados e visualização de informações, aplicando conceitos amplamente utilizados no ambiente corporativo.
 
-## 📷 Visão Geral do Projeto
+Projeto desenvolvido com finalidade educacional, aplicando conceitos utilizados no ambiente corporativo de análise de dados.
 
-### 🧾 Lançamentos
+---
+
+## 📷 Visão geral
+
 <img width="1413" height="810" alt="Dashboard_XBOX" src="https://github.com/user-attachments/assets/8de8b8ab-4f41-4940-a872-4f21155d8351" />
 
+---
+
 ## 👩‍💻 Autora
+
 **Giseli Silva**
