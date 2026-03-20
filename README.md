@@ -78,3 +78,4 @@ Projeto desenvolvido com finalidade educacional, aplicando conceitos utilizados 
 ## 👩‍💻 Autora
 
 **Giseli Silva**
+Área Administrativa | Dados | Excel
